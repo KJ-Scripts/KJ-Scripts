@@ -3,3 +3,5 @@
 - 👀 Onze Discord: https://discord.gg/Urygp4haqd
   
 - 📫 Mijn Discord: @producedbymert
+
+![KJ Scripts GitHub stats](https://github-readme-stats.vercel.app/api?username=KJ-Scripts&theme=dark&show_icons=true)
