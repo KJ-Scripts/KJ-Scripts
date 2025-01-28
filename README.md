@@ -4,4 +4,4 @@
   
 - 📫 Mijn Discord: @producedbymert
 
-![KJ Scripts GitHub stats](https://github-readme-stats.vercel.app/api?username=KJ-Scripts&theme=dark&show_icons=true)
+![KJ Scripts GitHub stats](https://github-readme-stats.vercel.app/api?username=KJ-Scripts&theme=neon&show_icons=true)
